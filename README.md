@@ -1,4 +1,4 @@
 # -Python-Graphical-User-interfaces-
-Pratice GUI system with python as part of my class.
+Pratical GUI system with python.
 
 Original work by Minsoo Seok
